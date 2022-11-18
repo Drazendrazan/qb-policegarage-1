@@ -17,6 +17,7 @@ Police Vehicle Shop for QB-Core Framework
 ### Manual
 - Download the script and put it in the `[qb]` directory.
 - Add the following code to your server.cfg/resources.cfg
+- make sure you have sql run
 ```
 ensure qb-core
 ensure qb-target
