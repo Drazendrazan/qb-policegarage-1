@@ -25,4 +25,4 @@ ensure qb-policegarage
 ```
 
 ## Screenshots
-![Police Shop](![image](https://user-images.githubusercontent.com/89742984/202778752-0a712ab0-0f45-44c7-aec9-4a4dbe03be73.png))
+![Police Shop](https://user-images.githubusercontent.com/89742984/202778752-0a712ab0-0f45-44c7-aec9-4a4dbe03be73.png)
