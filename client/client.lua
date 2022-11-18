@@ -77,8 +77,7 @@ RegisterNetEvent('qb-policegarge:client:VehicleMenu', function()
                     price = v.price,
                     coords = v.coords,
                     heading = v.heading,
-                    coordsradius = v.coordsradius,
-                    isnetworked = v.isnetworked,
+                    coordsradius = v.coordsradius
                 }
             }
         }
